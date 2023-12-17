@@ -1,0 +1,8 @@
+C:\Users\kirus\source\repos\ONIT\ONIT\bin\Debug\ONIT.exe.config
+C:\Users\kirus\source\repos\ONIT\ONIT\bin\Debug\ONIT.exe
+C:\Users\kirus\source\repos\ONIT\ONIT\bin\Debug\ONIT.pdb
+C:\Users\kirus\source\repos\ONIT\ONIT\obj\Debug\ONIT.csproj.AssemblyReference.cache
+C:\Users\kirus\source\repos\ONIT\ONIT\obj\Debug\ONIT.csproj.SuggestedBindingRedirects.cache
+C:\Users\kirus\source\repos\ONIT\ONIT\obj\Debug\ONIT.csproj.CoreCompileInputs.cache
+C:\Users\kirus\source\repos\ONIT\ONIT\obj\Debug\ONIT.exe
+C:\Users\kirus\source\repos\ONIT\ONIT\obj\Debug\ONIT.pdb
